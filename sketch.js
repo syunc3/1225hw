@@ -1,6 +1,6 @@
 var sound2
 function preload(){
-  sound2 = loadSound("music2.MP3") //先把音樂檔載入到sound2程式碼中
+  sound2 = loadSound("music2.mp3") //先把音樂檔載入到sound2程式碼中
 }
 
 var face_clr = "ffcdb2-ffb4a2-e5989b-b5838d-6d6875-a3a380-d6ce93-efebce-d8a48f-bb8588".split("-").map(a=>"#"+a)
